@@ -1,7 +1,7 @@
 # Cloud Cost Leak Finder
 
 ## Overview
-The **Cloud Cost Leak Finder** is a Python- and Streamlit-based tool developed by **CloudOptima Solutions** to automatically detect, analyze, and simulate optimizations for cloud cost inefficiencies across multi-cloud environments such as AWS, Azure, and Google Cloud Platform (GCP).  
+The **Cloud Cost Leak Finder** is a Python- and Streamlit-based tool developed by CloudOptima Solutions to automatically detect, analyze, and simulate optimizations for cloud cost inefficiencies across multi-cloud environments such as AWS, Azure, and Google Cloud Platform (GCP).  
 
 It enables cloud administrators, IT managers, and finance analysts to upload cloud usage data, identify underutilized or misconfigured resources, and receive actionable recommendations to reduce unnecessary expenses.
 
